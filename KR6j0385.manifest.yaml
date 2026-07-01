@@ -1,0 +1,51 @@
+canonical_identifier: bkk:krp/KR6j0385/v1
+canonical_location: https://kanripo.org/bkk/KR6j0385/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說雨寶陀羅尼經
+  identifiers:
+    alt_id:
+    - T20n1163
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1163.xml
+    old_id: T20n1163
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0385_000.yaml, hash: 'sha256:df0e4fc74c2a2d16167f7ed7475e98ddbc49541f3da038c335431d6cb74dcb5f'}
+  - {seq: 1, filename: KR6j0385_001.yaml, hash: 'sha256:d7e2c2a95703408834530ed587508b2712f24143cf95366d990043230bb3e940'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0385_001.markers.yaml, hash: 'sha256:afb9f8133fcf04188377072be598e84251f435c34ac0e9c0d4f20b855ff8f4b3'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0385_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1923
+  label: 佛說雨寶陀羅尼經
+  type: juan
+  level: 1
+hash: sha256:88427206b934381d34de450967a8fc8f0a04f0a3c3bf39c57d81782dc73b23dd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0385/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說雨寶陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1163.xml
+    old_id: T20n1163
+hash: sha256:df0e4fc74c2a2d16167f7ed7475e98ddbc49541f3da038c335431d6cb74dcb5f
