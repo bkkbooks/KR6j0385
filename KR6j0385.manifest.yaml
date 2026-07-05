@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0385_000.yaml, hash: 'sha256:df0e4fc74c2a2d16167f7ed7475e98ddbc49541f3da038c335431d6cb74dcb5f'}
-  - {seq: 1, filename: KR6j0385_001.yaml, hash: 'sha256:d7e2c2a95703408834530ed587508b2712f24143cf95366d990043230bb3e940'}
+  - {seq: 1, filename: KR6j0385_001.yaml, hash: 'sha256:cd20993acd751a07c57bbcedea4719389a16533809cff8f17d43080575d9f5a5'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0385_001.markers.yaml, hash: 'sha256:afb9f8133fcf04188377072be598e84251f435c34ac0e9c0d4f20b855ff8f4b3'}
+  - {seq: 0, role: markers, filename: assets/KR6j0385_000.markers.yaml, hash: 'sha256:bbfc35ae1ce89d11b4dcbd89eb31047c51cd2831d7e1f80adc72f31c148b7cd0'}
+  - {seq: 1, role: markers, filename: assets/KR6j0385_001.markers.yaml, hash: 'sha256:1c3c6964e0b40467cc02a9bb379a6df4261fabe5d89c320fbeeadb7b0d05094d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說雨寶陀羅尼經
   type: juan
   level: 1
-hash: sha256:88427206b934381d34de450967a8fc8f0a04f0a3c3bf39c57d81782dc73b23dd
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:69eeb58e0385a006989b1d35365a60c310a19785a3aeb453185efe90e4e30f30
