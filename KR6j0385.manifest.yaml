@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0385/v1
 canonical_location: https://kanripo.org/bkk/KR6j0385/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說雨寶陀羅尼經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0385_000.yaml, hash: 'sha256:df0e4fc74c2a2d16167f7ed7475e98ddbc49541f3da038c335431d6cb74dcb5f'}
-  - {seq: 1, filename: KR6j0385_001.yaml, hash: 'sha256:cd20993acd751a07c57bbcedea4719389a16533809cff8f17d43080575d9f5a5'}
+  - {seq: 1, filename: KR6j0385_001.yaml, hash: 'sha256:ba7e9e8c87345c776927fa26e633d1c7bfe35f7980582990fa0dd673704e5ab0'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0385_000.markers.yaml, hash: 'sha256:bbfc35ae1ce89d11b4dcbd89eb31047c51cd2831d7e1f80adc72f31c148b7cd0'}
-  - {seq: 1, role: markers, filename: assets/KR6j0385_001.markers.yaml, hash: 'sha256:1c3c6964e0b40467cc02a9bb379a6df4261fabe5d89c320fbeeadb7b0d05094d'}
+  - {seq: 1, role: markers, filename: assets/KR6j0385_001.markers.yaml, hash: 'sha256:fc6aaffa5278d292b4f6f771aeabfb7d95811a5324c34a183614bb5dee7a9de7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛說雨寶陀羅尼經
   type: juan
   level: 1
-hash: sha256:69eeb58e0385a006989b1d35365a60c310a19785a3aeb453185efe90e4e30f30
+hash: sha256:f60b18fa6a49758d82fde1b67e0b9f087a8f2cdb4a3959c957da088b90ded487
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
